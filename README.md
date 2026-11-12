@@ -1,5 +1,5 @@
  * AI Routes — /api/ai
- * CSE4104-7C-T05 | AI Academic Mentor
+ * CSE4104-7D-T06| AI Academic Mentor
  *
  * ---------------------------------------------------------------
  * FIX LOG (read this):
